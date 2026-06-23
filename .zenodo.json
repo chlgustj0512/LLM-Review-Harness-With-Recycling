@@ -1,0 +1,33 @@
+{
+  "title": "A Multi-Aspect LLM Review Harness for Adversarial Argument-Error Evaluation and Purpose-Annotated Failure Recycling",
+  "upload_type": "software",
+  "description": "A research prototype for multi-aspect LLM review, restricted adversarial argument-error evaluation, event-contract validated provenance, explicit human gate decisions, and confirmed-failure recycling. The current release implements the system architecture but does not yet claim better evaluation performance than existing evaluation or refinement methods.",
+  "creators": [
+    {
+      "name": "Choi, Hyunseo",
+      "orcid": "0009-0002-7757-0274"
+    }
+  ],
+  "version": "0.15.1",
+  "publication_date": "2026-06-23",
+  "doi": "10.5281/zenodo.20814616",
+  "license": "Apache-2.0",
+  "keywords": [
+    "LLM-as-a-judge",
+    "argument error",
+    "adversarial evaluation",
+    "multi-aspect review",
+    "failure recycling",
+    "provenance",
+    "analogy"
+  ],
+  "language": "kor",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/chlgustj0512/LLM-Review-Harness-With-Recycling",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Mixed-license upload: software source code is Apache-2.0; documentation and the system-design PDF are CC-BY-4.0. Add both licenses in the Zenodo record UI."
+}

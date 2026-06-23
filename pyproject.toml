@@ -1,0 +1,11 @@
+[project]
+name = "analogy-review-harness"
+version = "0.15.1"
+description = "Event-contract validated analogy generation and multi-aspect review harness."
+requires-python = ">=3.11"
+
+[project.scripts]
+analogy-harness = "harness.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["harness*"]

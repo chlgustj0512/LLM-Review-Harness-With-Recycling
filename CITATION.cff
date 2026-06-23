@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software or its design, please cite it using this metadata."
+title: "A Multi-Aspect LLM Review Harness for Adversarial Argument-Error Evaluation and Purpose-Annotated Failure Recycling"
+type: software
+authors:
+  - family-names: "Choi"
+    given-names: "Hyunseo"
+    orcid: "https://orcid.org/0009-0002-7757-0274"
+version: "0.15.1"
+date-released: "2026-06-23"
+doi: "10.5281/zenodo.20814616"
+license: "Apache-2.0"
+abstract: >-
+  A multi-aspect LLM review harness for argument-error evaluation,
+  event-contract validated provenance, explicit human gate decisions,
+  and confirmed-failure recycling through block rules and a
+  purpose-annotated library.
+keywords:
+  - LLM-as-a-judge
+  - argument error
+  - adversarial evaluation
+  - multi-aspect review
+  - failure recycling
+  - provenance
+  - analogy
+repository-code: "https://github.com/chlgustj0512/LLM-Review-Harness-With-Recycling"
+url: "https://doi.org/10.5281/zenodo.20814616"
